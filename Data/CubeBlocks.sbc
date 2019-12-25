@@ -77,7 +77,7 @@
         <TypeId>OxygenTank</TypeId>
         <SubtypeId>HydrogenReikaCompressor</SubtypeId>
       </Id>
-      <DisplayName>Hydogen Compressor</DisplayName>
+      <DisplayName>Hydrogen Compressor</DisplayName>
      <Icon>Textures\GUI\Icons\Cubes\hydrogen_compressor_tank.dds</Icon>
       <Description>Compresses hydrogen gas into liquid under high pressure at low temperatures. Requires great power to do so, and significant power to maintain. Is unstable and can fail very violently.</Description>
       <Public>true</Public>
