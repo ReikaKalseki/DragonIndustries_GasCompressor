@@ -31,20 +31,8 @@
       </Components>
       <CriticalComponent Subtype="Computer" Index="0" />
       <MountPoints>
-        <MountPoint Side="Top" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9" />
-        <MountPoint Side="Bottom" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9" Default="true" />
-        <MountPoint Side="Front" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.3" />
-        <MountPoint Side="Front" StartX="0.1" StartY="0.9" EndX="0.9" EndY="1.1" />
-        <MountPoint Side="Front" StartX="0.1" StartY="1.7" EndX="0.9" EndY="1.9" />
-        <MountPoint Side="Back" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.3" />
-        <MountPoint Side="Back" StartX="0.1" StartY="0.9" EndX="0.9" EndY="1.1" />
-        <MountPoint Side="Back" StartX="0.1" StartY="1.7" EndX="0.9" EndY="1.9" />
-        <MountPoint Side="Left" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.3" />
-        <MountPoint Side="Left" StartX="0.1" StartY="0.9" EndX="0.9" EndY="1.1" />
-        <MountPoint Side="Left" StartX="0.1" StartY="1.7" EndX="0.9" EndY="1.9" />
-        <MountPoint Side="Right" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.3" />
-        <MountPoint Side="Right" StartX="0.1" StartY="0.9" EndX="0.9" EndY="1.1" />
-        <MountPoint Side="Right" StartX="0.1" StartY="1.7" EndX="0.9" EndY="1.9" />
+		<MountPoint Side="Bottom" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
+		<MountPoint Side="Top" StartX="0.00" StartY="0.00" EndX="1.00" EndY="1.00" />
       </MountPoints>
       <BuildProgressModels>
         <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\OxygenStorageConstruction_1.mwm" />
