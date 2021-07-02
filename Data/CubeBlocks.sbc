@@ -128,7 +128,7 @@
       <ResourceSinkGroup>Factory</ResourceSinkGroup>
       <OperationalPowerConsumption>40</OperationalPowerConsumption>
       <StandbyPowerConsumption>5.0</StandbyPowerConsumption>
-      <Capacity>40000000</Capacity>
+      <Capacity>120000000</Capacity> <!-- vanilla tank is 15000000, so this is 8x larger -->
       <InventoryMaxVolume>0.75</InventoryMaxVolume>
       <InventorySize>
         <X>1</X>
